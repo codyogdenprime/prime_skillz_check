@@ -36,4 +36,4 @@ var halve = function ( number ) {
 // pass it into the function from 2 called with
 // the arguments 10, 20. Console log the result.
 
-console.log( half( multiply( 10, 20 ) ) );
+console.log( multiply( halve( 20 ), halve( 20 ) ) );
