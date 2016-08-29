@@ -6,7 +6,7 @@ var second = 5;
 
 if ( first === second ) {
 	console.log( "Hello" );
-} else {
+} else { // Step 2 Expansion
 	console.log( "Goodbye" );
 }
 

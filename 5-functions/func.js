@@ -29,7 +29,7 @@ var logMessage = function( message ) {
 // by two.
 
 var halve = function ( number ) {
-	return ( number / 2 )
+	return ( number / 2 );
 };
 
 // 5 - Call the function from 4 and
